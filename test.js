@@ -1,0 +1,3 @@
+'USE STRICT'
+
+var styles = ['', '']
