@@ -1,4 +1,3 @@
 'USE STRICT'
 
-var styles = ['', '']
-var a = 3;
+var azaza = 5;
